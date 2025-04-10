@@ -3,7 +3,7 @@ package com.example.flickrphotogallery.api
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-//private const val API_KEY =e "857d6173444874e7e8ae6fc06e99e3ff"
+//private const val API_KEY ="your_API_key"
 
 interface FlickrApi {
 
